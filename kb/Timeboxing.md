@@ -32,6 +32,7 @@ Wenn man unter Anderem ...
 4. Timeboxen setzen und mit Zeitrahmen schriftlich festhalten 
 
 
+
 # Harte versus weiche Timeboxen
 
 Vor dem Timeboxing muss entschieden werden, ob die jeweiligen Timeboxen hart oder weich sind. Man muss sich bei einem [Projekt](Projekt.md) jedoch nicht auf eine Art Timebox beschränken. Es ist oft sinnvoll zu mixen, je nach dem was eine Aufgabe von einem fordert. Z.B. eignen sich harte Timeboxen umso besser, umso mehr Disziplin eine Aufgabe fordert[^4].
