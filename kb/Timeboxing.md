@@ -52,7 +52,7 @@ Bei weichen Timeboxen muss sich hingegen nicht strikt an die Zeitslots gehalten 
 * Effektives Arbeiten durch verbindlichen Zietrahmen
 * Reduzierung von Multitasking und Prokrastination
 * Fokus auf das Wesentliche
-* Steigert Motivation und Konzentration [^3][^4]
+* Steigert Motivation und Konzentration [^3] [^4]
 
 ## Nachteile
 
@@ -60,7 +60,7 @@ Bei weichen Timeboxen muss sich hingegen nicht strikt an die Zeitslots gehalten 
 * Erfordert viel Disziplin 
 * Qualität leidet bei zu kurz gesetzten Timeboxen
 * Weniger Flexibilität
-* Weniger Zeit für Kreativität [^3][^4] 
+* Weniger Zeit für Kreativität [^3] [^4] 
 
 # Konkrete Beispiele
 
